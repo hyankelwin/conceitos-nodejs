@@ -1,5 +1,12 @@
 
+<h1 align="center">
+<br>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="node" width="120">
+<br>
+<br>
+  
 Application for storing portfolio repositories
+</h1>
 
 ## Overview
 
