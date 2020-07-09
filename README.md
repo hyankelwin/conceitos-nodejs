@@ -4,10 +4,11 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="node" width="120">
 <br>
 <br>
+Application for storing portfolio repositories
 </h1>
 <br>
 
-Application for storing portfolio repositories
+
 ## Overview
 
 This repository aims to complete the challenge announced by Rockeatseat in Bootcamp GoStack, in which the challenge is to develop an application in NodeJs with the basic concepts that will allow the creation, listing, updating and removal of repositories, and in addition allow repositories to receive "likes".
